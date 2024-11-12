@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CXYの博客</title><link>https://RMDCXY.github.io/cxyblog</link><description>在视频中提及的链接、代码均会在此处展出。您可以点击🔍输入视频编号快速定位链接</description><copyright>CXYの博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/170779944?v=4</url><title>avatar</title><link>https://RMDCXY.github.io/cxyblog</link></image><lastBuildDate>Tue, 12 Nov 2024 11:53:49 +0000</lastBuildDate><managingEditor>CXYの博客</managingEditor><ttl>60</ttl><webMaster>CXYの博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>CXYの博客</title><link>https://RMDCXY.github.io/cxyblog</link><description>在视频中提及的链接、代码均会在此处展出。您可以点击🔍输入视频编号快速定位链接</description><copyright>CXYの博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/170779944?v=4</url><title>avatar</title><link>https://RMDCXY.github.io/cxyblog</link></image><lastBuildDate>Tue, 12 Nov 2024 16:14:21 +0000</lastBuildDate><managingEditor>CXYの博客</managingEditor><ttl>60</ttl><webMaster>CXYの博客</webMaster><item><title>[01]将Python项目打包成带安装程序的软件？</title><link>https://RMDCXY.github.io/cxyblog/post/%5B01%5D-jiang-Python-xiang-mu-da-bao-cheng-dai-an-zhuang-cheng-xu-de-ruan-jian-%EF%BC%9F.html</link><description>![image](https://github.com/user-attachments/assets/85301d21-bedf-4d69-8855-3bf0d6525a8e)&#13;
+&gt;视频中提到的资源 网盘链接&#13;
+&gt;主：https://www.123684.com/s/7Y04jv-n47ud&#13;
+&gt;备：https://www.123865.com/s/7Y04jv-n47ud&#13;
+&#13;
+0.准备工作：&#13;
+安装打包工具(pyinstaller)：`pip install pyinstaller`&#13;
+&#13;
+1.打包成形：&#13;
+普通打包：`pyinstaller 项目名称.py`&#13;
+&#13;
+不显示命令提示符打包：`pyinstaller 项目名称.py -w`&#13;
+&#13;
+2.更改图标：&#13;
+图片转ico网站：https://www.ico51.cn&#13;
+。</description><guid isPermaLink="true">https://RMDCXY.github.io/cxyblog/post/%5B01%5D-jiang-Python-xiang-mu-da-bao-cheng-dai-an-zhuang-cheng-xu-de-ruan-jian-%EF%BC%9F.html</guid><pubDate>Tue, 12 Nov 2024 11:38:49 +0000</pubDate></item></channel></rss>
